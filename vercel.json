@@ -20,10 +20,6 @@
       "dest": "/index.html"
     },
     {
-      "src": "/",
-      "dest": "/dashbored.html"
-    },
-    {
       "src": "/(.*\\.html)",
       "dest": "/$1"
     },
